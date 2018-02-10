@@ -1,2 +1,3 @@
-# Recommender-System
-A Movie Recommender System Using Rating Matrix and Co-occurrence Matrix
+# Recommender-System(MapReduce Project)
+- A Movie Recommender System Basing on Item Collabrative Filtering Algorithm
+
